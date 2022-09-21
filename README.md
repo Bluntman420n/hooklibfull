@@ -1,4 +1,4 @@
-# HookLib²
+# HookLibFull(It hass all the stuff that is in the include so you dont need to download anything or lookup errors)²
 ## The Win32 lightweight functions interception library
 ### ✔ Advantages:
 * Written on pure C
