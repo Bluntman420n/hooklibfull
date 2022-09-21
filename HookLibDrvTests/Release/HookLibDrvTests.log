@@ -1,0 +1,4 @@
+﻿  Building 'HookLibDrvTests' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Main.cpp
+  Main.obj : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+LINK : fatal error LNK1181: cannot open input file 'H:\!Valorantcheat\HookLib-master\HookLib\Zydis\msvc\bin\ReleaseX86\Zydis.lib'

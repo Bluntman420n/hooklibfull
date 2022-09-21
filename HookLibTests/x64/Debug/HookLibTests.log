@@ -1,0 +1,2 @@
+﻿  HookLibTests.cpp
+LINK : fatal error LNK1104: cannot open file 'H:\!Valorantcheat\HookLib-master\HookLib\Zydis\msvc\bin\DebugX64\Zydis.lib'

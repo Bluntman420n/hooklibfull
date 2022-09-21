@@ -1,0 +1,2 @@
+﻿  HookLibTests.cpp
+LINK : fatal error LNK1181: cannot open input file 'H:\!Valorantcheat\HookLib-master\HookLib\Zydis\msvc\bin\ReleaseX86\Zydis.lib'

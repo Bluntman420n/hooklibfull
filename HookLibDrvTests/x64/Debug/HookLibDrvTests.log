@@ -1,0 +1,3 @@
+﻿  Building 'HookLibDrvTests' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Main.cpp
+LINK : fatal error LNK1181: cannot open input file 'H:\!Valorantcheat\HookLib-master\HookLib\Zydis\msvc\bin\DebugX64\Zydis.lib'
